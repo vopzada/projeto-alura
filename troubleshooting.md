@@ -1,13 +1,11 @@
 ## Modelo de Troubleshooting
 
 ### Contexto 
-O Troubleshooting é uma documentação focada em listar possíveis erros que um produto, serviço ou funcionalidade pode apresentar e como solucionar este problema. É também chamada de documentação de erros ou de resolução de problemas. 
+O cliente Ligue180 nos relatou que o sistema estaria com uma suposta lentidão ao reclassificar os formulários. Foi feito o acesso ao ambiente, aberto uma solicitação teste, onde não foi encontrada a lentidão informada. [guia do The Good Docs Project]((https://ligue180.metasix.solutions/auth-web/login)):
 
-Algumas orientações para escrever um troubleshooting de acordo com o [guia do The Good Docs Project](https://gitlab.com/tgdp/templates/-/blob/main/troubleshooting/guide-troubleshooting.md?ref_type=heads):
-
-* Certifique-se de que você testou o produto/solução para ver se está funcionando corretamente
-* Identifique todos os cenários de erro 
-* Mapeie as soluções para cada cenário encontrado
+* Durante os testes, está funcionando corretamente? 
+* Foi identificado os cenários de erro?  
+* Teria alguma forma de de modificar o cenário encontrado? 
 * Organize seu documento em **sintomas/causas** e **soluções**
 
 ## Exemplo de documentação 
